@@ -31,8 +31,8 @@ The project is organized into the following files:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/CharlesRathaba/learning-management-system.git
-    cd learning-management-system
+    git clone https://github.com/CharlesRathaba/LearningManagementSystem.git
+    cd LearningManagementSystem
     ```
 
 2. **Install the required Python packages:**
